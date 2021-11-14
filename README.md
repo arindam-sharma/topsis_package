@@ -2,7 +2,7 @@
 
 Submitted By: **Arindam Sharma**
 
-Link to the project on [PyPI]("https://pypi.org/project/TOPSIS-Arindam-101816003/")
+Link to the project on [PyPI](https://pypi.org/project/TOPSIS-Arindam-101816003/)
 
 Can be installed by :
 <br>
